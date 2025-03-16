@@ -1,4 +1,4 @@
-Thisscript extracts Land Surface Temperature (LST) data from MODIS for Nairobi County, generates 200 random sampling points, and exports the extracted data to CSV.
+This script extracts Land Surface Temperature (LST) data from MODIS for Nairobi County, generates 200 random sampling points, and exports the extracted data to CSV.
 
 🔹 Key Steps in the Code
 Load Kenya Counties Dataset
